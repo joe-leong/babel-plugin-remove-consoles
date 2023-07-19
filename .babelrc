@@ -1,0 +1,6 @@
+{
+    "plugins": [["./custom-plugin.js",{
+        "env":"production",
+        "exclude":["error"]
+    }]]
+}
